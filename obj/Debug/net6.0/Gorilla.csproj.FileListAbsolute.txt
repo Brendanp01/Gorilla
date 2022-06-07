@@ -21,3 +21,10 @@
 /home/brendan/Gorilla/obj/Debug/net6.0/Gorilla.pdb
 /home/brendan/Gorilla/obj/Debug/net6.0/Gorilla.genruntimeconfig.cache
 /home/brendan/Gorilla/obj/Debug/net6.0/ref/Gorilla.dll
+/home/brendan/Gorilla/bin/Debug/net6.0/ExCSS.dll
+/home/brendan/Gorilla/bin/Debug/net6.0/ClearScript.Core.dll
+/home/brendan/Gorilla/bin/Debug/net6.0/ClearScript.V8.dll
+/home/brendan/Gorilla/bin/Debug/net6.0/ClearScript.V8.ICUData.dll
+/home/brendan/Gorilla/bin/Debug/net6.0/Newtonsoft.Json.dll
+/home/brendan/Gorilla/bin/Debug/net6.0/runtimes/linux-x64/native/ClearScriptV8.linux-x64.so
+/home/brendan/Gorilla/bin/Debug/net6.0/runtimes/win-x64/native/ClearScriptV8.win-x64.dll

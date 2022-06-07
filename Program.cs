@@ -1,22 +1,30 @@
 using System;
 using Gtk;
+using Microsoft.ClearScript.V8;
 
 namespace Gorilla
 {
     class Program
     {
-        [STAThread]
-        public static void Main(string[] args)
-        {
+
+        public static void Main() {
             Application.Init();
 
-            var app = new Application("org.Gorilla.Gorilla", GLib.ApplicationFlags.None);
-            app.Register(GLib.Cancellable.Current);
+             //Create the Window
+            Window myWin = new Window("Gorilla");
+            
+            myWin.Resize(640,360);
 
-            var win = new MainWindow();
-            app.AddWindow(win);
+            //Create a label and put some text in it.
+            Label myLabel = new Label();
+            myLabel.Text = "Hola";
 
-            win.Show();
+            //Add the label to the form
+            myWin.Add(myLabel);
+
+            //Show Everything
+            myWin.ShowAll();
+
             Application.Run();
         }
     }
