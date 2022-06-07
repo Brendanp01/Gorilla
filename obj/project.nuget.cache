@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "Xr3ePYJjbABEFQIDBcpnreeuYR6hQZGinr0AU8AWBHgldA6DId8Tw+3T2WgdkCckvSnUJ8WtzpZ2I3pKWNuxbA==",
+  "success": true,
+  "projectFilePath": "/home/brendan/Gorilla/Gorilla.csproj",
+  "expectedPackageFiles": [
+    "/home/brendan/.nuget/packages/atksharp/3.24.24.38/atksharp.3.24.24.38.nupkg.sha512",
+    "/home/brendan/.nuget/packages/cairosharp/3.24.24.38/cairosharp.3.24.24.38.nupkg.sha512",
+    "/home/brendan/.nuget/packages/gdksharp/3.24.24.38/gdksharp.3.24.24.38.nupkg.sha512",
+    "/home/brendan/.nuget/packages/giosharp/3.24.24.38/giosharp.3.24.24.38.nupkg.sha512",
+    "/home/brendan/.nuget/packages/glibsharp/3.24.24.38/glibsharp.3.24.24.38.nupkg.sha512",
+    "/home/brendan/.nuget/packages/gtksharp/3.24.24.38/gtksharp.3.24.24.38.nupkg.sha512",
+    "/home/brendan/.nuget/packages/pangosharp/3.24.24.38/pangosharp.3.24.24.38.nupkg.sha512"
+  ],
+  "logs": []
+}
